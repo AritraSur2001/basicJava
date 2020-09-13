@@ -1,0 +1,2 @@
+# basicJava
+input output
